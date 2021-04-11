@@ -1,12 +1,14 @@
+package task1;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
-import app.Product;
-import app.ProductComparator;
-import app.Util;
+import task1.Product;
+import task1.ProductComparator;
+import task1.Util;
 
-public class Main {
+public class Main1 {
 
     public static void main(String[] args) {
         int count = 10;
